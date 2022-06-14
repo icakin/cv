@@ -1,0 +1,13 @@
+body {
+    background: url(https://raw.githubusercontent.com/engineer-man/youtube/master/115/src/bg.png);
+    color: #ffffff;
+}
+
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+
+}
+</style>
